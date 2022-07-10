@@ -11,23 +11,25 @@
     height: 0px;
 }
 
-img{
-    
-    width: 100vw;   
+img{    
+    width: 100vw;
+    height: 150vh;   
 }
 
 a{
     display: block;
-    background-color: darkred; 
+    background-color: rgba(210, 6, 6, 0.74); 
     padding: 20px;           
     text-align: center;
-    color: silver;
-    font-weight: bolder;
+    color: silver;    
     font-size: 1em;
     text-decoration: none;
+    font-family: cursive;
+      
 }
 
 a:hover{
-    background-color: red;
+    background-color: rgba(218, 16, 16, 0.78);
     color: white;
+    text-decoration: overline underline;
 }

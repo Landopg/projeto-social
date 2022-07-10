@@ -47,12 +47,10 @@ iframe#tela{
 }
 
 section#redes-sociais{ 
-    margin-left: auto;
+    margin-left: auto;   
     
-    
-    height: 100vh;
-       
-    position: relative;  
+    height: 100vh;   
+     
     text-align: right;
     padding: auto;
 }
