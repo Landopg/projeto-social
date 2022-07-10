@@ -66,8 +66,8 @@ section#redes-sociais img{
 
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.605);
-    transform: translate(-0px, -13px) ;
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.802);
+    transform: translate(-0px, -10px) ;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
     transition: 0.3s;
     border-radius: 15%;
     width: 55px;

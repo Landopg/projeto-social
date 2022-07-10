@@ -18,13 +18,13 @@ img{
 
 a{
     display: block;
-    background-color: rgba(210, 6, 6, 0.74); 
+    background-image: linear-gradient(to left, rgb(0, 255, 81), blue); 
     padding: 20px;           
     text-align: center;
     color: silver;    
     font-size: 1em;
     text-decoration: none;
-    font-family: cursive;
+    
       
 }
 
