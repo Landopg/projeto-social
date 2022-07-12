@@ -13,7 +13,11 @@
 
 img{    
     width: 100vw;
-    height: 150vh;   
+    
+}
+
+img.meucanal{    
+    height: 160vh;
 }
 
 a{
